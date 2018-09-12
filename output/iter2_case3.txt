@@ -1,0 +1,27 @@
+I like eating 0       egg
+1    potato
+2    carrot
+Name: food, dtype: object, I ate 0    2
+1    3
+2    9
+Name: number_of_food, dtype: int64 of 0       egg
+1    potato
+2    carrot
+Name: food, dtype: object today. **
+My girlfriend does not like eating 0       egg
+1    potato
+2    carrot
+Name: food, dtype: object.
+
+**
+
+I hate it when **  ** I don't have 0       egg
+1    potato
+2    carrot
+Name: food, dtype: object to eat.
+
+0    2
+1    3
+2    9
+Name: number_of_food, dtype: int64 is my lucky number
+

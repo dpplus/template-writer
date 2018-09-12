@@ -1,0 +1,6 @@
+I like eating **-food-**, I ate **-number_of_food-** of **-food-** today. **
+My girlfriend does not like eating **-food-**.
+I hate it when **  ** I don't have **-food-** to eat.
+**-number_of_food-** is my lucky number
+
+one **-food-** are **-price-** dollars, that's why we are going to pay **-number_of_food**price+price/(number_of_food+price)-** to warlmart
